@@ -1,15 +1,6 @@
-# CodeHelp-DSA-Busted-Series
+# CodeHelp-DSA-
 Hello Jee,
 
-This repo is for the students for easy access to all the programs taught under Codehelp's DSA Busted Series.
+This repo consist all the good questions solved by Love Babbar solved in his DSA Series.
 
-
-
-Youtube Channel: CodeHelp - by Babbar
-
-
-Your Instructor: Love Babbar
-
-
-
-Learn a Lot, Enjoy a Lot.
+It is uploaded in this repo for help of all Coder folks.
